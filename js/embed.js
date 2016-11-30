@@ -763,7 +763,7 @@
                 return '<a href="javascript:void(0)" class="ds-service-icon' + (t ? "-grey" : "") + " ds-" + e + '" data-service="' + e + '" title="' + S.sourceName[e] + '"></a>'
             },
             poweredBy: function(e) {
-                return '<div class="ds-powered-by"><a href="http://duoshuo.com" target="_blank" rel="nofollow">' + _(e) + "</a></div>"
+                return ;
             },
             indicator: w('<div id="ds-indicator"></div>'),
             waitingImg: w('<div id="ds-waiting"></div>'),

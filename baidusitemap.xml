@@ -5,18 +5,18 @@
     
   <url>
     <loc>http://yoursite.com/2016/11/08/hello-world/</loc>
-    <lastmod>2016-11-24T08:35:47.837Z</lastmod>
+    <lastmod>2016-11-30T16:58:09.204Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
+        <title>Hello World - Hexo</title>
         <pubTime>2016-11-08T14:28:11.494Z</pubTime>
         
-        <tag>html</tag>
+        <tag>Mood</tag>
          
          
            
              
-              <breadCrumb title="科技" url="http://yoursite.com/categories/%E7%A7%91%E6%8A%80/"/>
+              <breadCrumb title="杂谈" url="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
           
         </display>
     </data>

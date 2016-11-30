@@ -30,33 +30,26 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
+    <title>Hello World - Hexo</title>
     <link href="http://yoursite.com/2016/11/08/hello-world/"/>
     <id>http://yoursite.com/2016/11/08/hello-world/</id>
     <published>2016-11-08T14:28:11.494Z</published>
-    <updated>2016-11-24T08:35:47.837Z</updated>
+    <updated>2016-11-30T16:58:09.204Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you <a id="more"></a>can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一直都很想拥有一个属于自己的博客，分享各种有用的知识，结识各路好汉软妹小鲜肉，探讨前沿技术和难啃的bug，Maybe还可以阐述自己丧尸的心情……(^_^)想想都是各种美。工作其实还是很忙，能真正惬意的时间也不多，曾经幻想的一杯茶，一本书，一下午也很难实现 <span style="color:#ccc">//该项已列入明年的计划中</span>。博客也是筹划了好久，才终于搞定了一个属于自己的小窝。所以特别感谢Hexo和Hexo模板，让我能花最少的时间完成我最想做的事情。之前本来是想通过NodeJS + Express + mongodb 来建站，但是界面一直都没有太多时间去设计优化，丑媳妇怕见公婆，幸好有Hexo和各路大神的模板，得以偿愿。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总而言之，一言总之：<span style="color:#2da2e4"> 陌上花开，吾将缓缓归矣！ </span></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you
+      &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;一直都很想拥有一个属于自己的博客，分享各种有用的知识，结识各路好汉软妹小鲜肉，探讨前沿技术和难啃的bug，Maybe还可以阐述自己丧尸的心情……(^_^)想想都是各种美。工作其实还是很忙，能
     
     </summary>
     
-      <category term="科技" scheme="http://yoursite.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="杂谈" scheme="http://yoursite.com/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-      <category term="html" scheme="http://yoursite.com/tags/html/"/>
+      <category term="Mood" scheme="http://yoursite.com/tags/Mood/"/>
     
   </entry>
   
